@@ -6,7 +6,7 @@ A full-stack **multi-agent application** built with a modern frontend and a scal
 ---
 
 ## ✨ Features
-- 🤖 Multi-agent workflo
+- 🤖 Multi-agent workflow
 - ⚡ Fast, modern frontend using Vite
 - 🧠 Scalable backend API
 - 🔐 Environment-based configuration
