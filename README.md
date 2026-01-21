@@ -1,18 +1,7 @@
-celery -A backend.app.celery_app.celery_app worker --loglevel=info
-redis-server
-npm run dev
-source venv/bin/activate     
-uvicorn backend.app.main:app --reload
-
-
 
 #  Multi-Agent Application 
 
 A full-stack **multi-agent application** built with a modern frontend and a scalable backend.  
-
-
-- **Frontend:** https://<your-project>.vercel.app
-- **Backend API:** https://<your-backend>.onrender.com
 
 ---
 
@@ -76,8 +65,7 @@ The following are **intentionally not pushed**:
 
 ### 🔹 Clone Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd multi-agent-app
+https://github.com/Srikanth6469/AI-Multiagent.git
 python -m venv venv
 ### Frontend Setup
 cd frontend
